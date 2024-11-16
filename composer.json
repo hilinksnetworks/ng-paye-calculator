@@ -1,1 +1,20 @@
-
+{
+    "name": "hilinksnetworks/ng-paye-calculator",
+    "description": "A simple PHP library for calculating PAYE in Nigeria.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hilinks Networks",
+            "email": "contact@hilinksnetworks.ng"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PAYE\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}
