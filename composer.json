@@ -17,7 +17,7 @@
     },
     "require": {
         "php": ">=7.4",
-        "hilinksnetworks/ng-paye-calculator": "dev-master"
+        "hilinksnetworks/ng-paye-calculator": "dev-main"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
