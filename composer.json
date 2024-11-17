@@ -1,3 +1,4 @@
+
 {
     "name": "hilinksnetworks/ng-paye-calculator",
     "description": "A simple PHP library for calculating PAYE in Nigeria.",
@@ -20,3 +21,4 @@
     "minimum-stability": "dev",
     "prefer-stable": true
 }
+
