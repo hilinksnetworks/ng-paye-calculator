@@ -19,7 +19,7 @@ A PHP library for calculating **Pay As You Earn (PAYE)** tax in Nigeria. This li
 Install the library via Composer:
 
 ```bash
-composer require hilinksnetworks/ng-paye-calculator
+composer require hilinksnetworks/ng-paye-calculator:dev-main  
 ```
 
 ---
